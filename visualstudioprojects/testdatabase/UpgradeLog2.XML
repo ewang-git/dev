@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="testdatabase">
+</Property><Property Name="Solution File" Value="D:\dev\VisualStudioProjects\testdatabase\testdatabase.sln">
+</Property><Property Name="Date" Value="Wednesday, February 01, 2012">
+</Property><Property Name="Time" Value="13:26 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="testdatabase.sln" Description="File successfully backed up as D:\dev\VisualStudioProjects\testdatabase\testdatabase.sln.old">
+</Event><Event ErrorLevel="0" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Converting project file 'D:\dev\VisualStudioProjects\testdatabase\testdatabase\testdatabase.vcproj'.">
+</Event><Event ErrorLevel="1" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Done converting to new project file 'D:\dev\VisualStudioProjects\testdatabase\testdatabase\testdatabase.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="testdatabase" Source="testdatabase\testdatabase.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="testdatabase.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="testdatabase.sln" Description="Converted">
+</Event></UpgradeLog>
