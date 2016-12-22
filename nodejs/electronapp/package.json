@@ -1,0 +1,10 @@
+{
+    "name": "ElectronApp",
+    "version": "0.0.1",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "Eric Wang",
+    "license": "BSD"
+}
